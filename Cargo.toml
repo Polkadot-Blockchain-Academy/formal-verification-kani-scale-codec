@@ -1,0 +1,8 @@
+[package]
+name = "kani-verify-scale-codec"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+parity-scale-codec = "3.6.4"
+parity-scale-codec-derive = "3.6.4"
